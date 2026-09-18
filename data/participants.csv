@@ -1,0 +1,7 @@
+participantId,eventId,name,email,department,registeredDate
+PRT-101,EVT-101,Aarav Patel,aarav.patel@campus.edu,Computer Science,2026-09-14 10:15
+PRT-102,EVT-101,Sneha Kulkarni,sneha.k@campus.edu,Information Technology,2026-09-14 11:20
+PRT-103,EVT-101,Vikram Singh,vikram.s@campus.edu,Electronics,2026-09-15 09:40
+PRT-104,EVT-102,Rohan Mehta,rohan.m@campus.edu,Computer Science,2026-09-15 14:05
+PRT-105,EVT-102,Pooja Hegde,pooja.h@campus.edu,Data Science,2026-09-16 08:50
+PRT-106,EVT-103,Aditya Joshi,aditya.j@campus.edu,Cyber Security,2026-09-16 16:30

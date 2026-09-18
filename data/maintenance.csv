@@ -1,0 +1,4 @@
+id,resourceId,issueDescription,reportedDate,resolvedDate,status,reportedBy
+MNT-501,PRJ-01,Lamp burnt out during faculty lecture,2026-09-10,N/A,PENDING,Lab Assistant Suresh
+MNT-502,LAB-202,Workstation 12 power supply failure,2026-09-05,2026-09-07,RESOLVED,System Admin Priya
+MNT-503,CR-101,Ceiling fan bearing noise and speed drop,2026-09-12,N/A,IN_PROGRESS,Class Representative

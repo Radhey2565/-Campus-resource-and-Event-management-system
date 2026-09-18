@@ -1,0 +1,6 @@
+id,resourceId,eventId,purpose,startDateTime,endDateTime,bookedBy,status
+BK-1001,HALL-A,EVT-101,Annual Tech Symposium Keynote & Tracks,2026-10-15 08:30,2026-10-15 17:30,Prof. Sharma,ACTIVE
+BK-1002,LAB-201,EVT-102,Python & AI Hands-on Workshop Lab Session,2026-10-18 09:30,2026-10-18 16:30,Dr. Ananya Rao,ACTIVE
+BK-1003,CR-101,EVT-103,Guest Lecture on Cyber Security Presentation,2026-10-20 13:30,2026-10-20 17:00,Prof. K. Verma,ACTIVE
+BK-1004,CR-102,EVT-104,Robotics Club Induction Meet Orientation,2026-09-01 09:30,2026-09-01 12:30,Rahul Desai,COMPLETED
+BK-1005,PRJ-02,EVT-103,Backup Projector for Cyber Security Guest Lecture,2026-10-20 13:30,2026-10-20 17:00,Prof. K. Verma,ACTIVE

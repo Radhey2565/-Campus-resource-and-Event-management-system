@@ -1,0 +1,9 @@
+id,name,type,location,status,capacity,extraDetails
+CR-101,Lecture Hall 101,CLASSROOM,Block A - Floor 1,AVAILABLE,60,Projector:Yes;AC:Yes
+CR-102,Classroom 102,CLASSROOM,Block A - Floor 1,AVAILABLE,40,Projector:No;AC:No
+LAB-201,Alan Turing Computing Lab,COMPUTER_LAB,IT Block - Floor 2,AVAILABLE,45,Workstations:45;OS:Ubuntu & Windows 11
+LAB-202,VLSI & Embedded Systems Lab,COMPUTER_LAB,Electronics Block - Floor 1,AVAILABLE,30,Workstations:30;HardwareKits:15
+HALL-A,Dr. APJ Abdul Kalam Auditorium,SEMINAR_HALL,Central Complex,AVAILABLE,350,Stage:Yes;AudioSystem:Dual-Line Array
+PRJ-01,Epson PowerLite 1080p,PROJECTOR,Media Center Storage,UNDER_MAINTENANCE,1,Lumens:3800;HDMI:Yes
+PRJ-02,BenQ Conference Projector,PROJECTOR,Media Center Storage,AVAILABLE,1,Lumens:4000;Wireless:Yes
+EQP-01,Yamaha StagePas PA System,OTHER_EQUIPMENT,Auditorium Control Room,AVAILABLE,1,Channels:8;Output:400W
