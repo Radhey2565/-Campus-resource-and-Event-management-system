@@ -1,0 +1,6 @@
+id,title,organizer,startDateTime,endDateTime,status,expectedAttendees
+EVT-101,Annual Tech Symposium 2026,Computer Science Dept,2026-10-15 09:00,2026-10-15 17:00,SCHEDULED,250
+EVT-102,Python & AI Hands-on Workshop,IEEE Student Branch,2026-10-18 10:00,2026-10-18 16:00,SCHEDULED,40
+EVT-103,Guest Lecture on Cyber Security,ACM Student Chapter,2026-10-20 14:00,2026-10-20 16:30,SCHEDULED,55
+EVT-104,Robotics Club Induction Meet,Robotics Society,2026-09-01 10:00,2026-09-01 12:00,COMPLETED,30
+EVT-105,Inter-College Debate Preliminary,Literary Club,2026-10-25 11:00,2026-10-25 14:00,CANCELLED,50
