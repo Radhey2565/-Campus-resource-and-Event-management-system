@@ -1,0 +1,6 @@
+{
+  "name": "Campus Resource & Event Management System",
+  "description": "An undergraduate command-line Java project for campus resource scheduling, event planning, booking conflict prevention, maintenance tracking, and threaded report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
